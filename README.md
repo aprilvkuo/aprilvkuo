@@ -1,4 +1,4 @@
-# Hi, I'm April 👋
+# Hi, I'm Eric 👋
 
 ### Edge AI & Agent Systems Tech Lead
 
@@ -42,4 +42,4 @@ My public repositories also trace an earlier path through NLP and machine learni
 - Email: [aprilvkuo@live.com](mailto:aprilvkuo@live.com)
 - GitHub: [@aprilvkuo](https://github.com/aprilvkuo)
 
-![April's GitHub stats](https://github-readme-stats.vercel.app/api?username=aprilvkuo&show_icons=true&hide_border=true&theme=transparent)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=aprilvkuo&show_icons=true&hide_border=true&theme=transparent)
