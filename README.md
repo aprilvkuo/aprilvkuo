@@ -1,41 +1,46 @@
 # Hi, I'm Eric 👋
 
-### Senior AI Engineer | Edge AI & Agent Systems
+### Senior AI Engineer | NLP, Search & Multilingual AI
 
-I build AI systems that work under real product constraints — limited compute, low latency, privacy requirements, and complex engineering environments.
+I build production NLP and AI systems that connect model quality with search, retrieval, ranking, inference performance, and real business constraints.
 
-## About Me
+## About
 
 - 🎓 B.S. and M.S. in Computer Science from Harbin Institute of Technology
-- 💼 Nearly a decade of AI and software engineering experience across Baidu, ByteDance, SHEIN, and 4Paradigm
-- 🧭 Growing from a senior individual contributor into technical leadership, currently leading technical delivery for a team of around five engineers
-- 💡 Four invention patents spanning applied AI and engineering systems
+- 💼 8+ years of NLP and AI engineering experience across Baidu, ByteDance, SHEIN, and 4Paradigm
+- 🔧 Experience spanning model development, algorithm systems, AI infrastructure, and product delivery
 
-My work has covered conversational AI, search and NLP, data mining, on-device models, inference optimization, retrieval-augmented generation, Agent systems, and AI infrastructure.
+## Experience Highlights
 
-## Current Focus
+- **4Paradigm — Algorithm Scientist**
+  Building and optimizing low-resource, multilingual machine translation systems across model selection, quality improvement, and inference acceleration. Current work includes more than **95% parameter reduction** for real-time on-device inference and broad multilingual coverage.
 
-- Edge AI and on-device model deployment
-- Model compression and inference optimization
-- Agent architecture, tool use, and workflow systems
-- Lightweight RAG and privacy-preserving local intelligence
-- LLM infrastructure and AI productization
+- **SHEIN — NLP Algorithm Engineer**
+  Built multilingual and LLM-based named entity recognition capabilities for search, advertising, customer service, and review scenarios using multilingual transfer, prompt engineering, RAG, and supervised fine-tuning.
 
-## Selected Impact
+- **ByteDance — NLP Algorithm Engineer**
+  Built POI search and recommendation systems from zero to one for Douyin publishing and Toutiao map search, covering query understanding, Elasticsearch and ANN retrieval, CTR and relevance ranking, and POI data mining.
 
-- Worked on an on-device translation system that reduced a model from **1.2B to 50M parameters**
-- Helped deliver average on-device inference latency below **150 ms**
-- Supported offline translation across **11+ languages**
-- Built experience connecting model quality, system performance, product constraints, and cross-functional delivery
+- **Baidu — NLP Algorithm Engineer**
+  Led intent-understanding work for the UNIT conversational AI platform. Designed Pattern Matching, DNN, and Few-Shot Intent-Slot approaches, improving overall NLU F1 from **75% to 86%**.
+
+## Technical Focus
+
+- Multilingual NLP and machine translation
+- Search, recommendation, retrieval, and ranking
+- NLU, intent detection, and information extraction
+- LLM applications, prompt engineering, RAG, and supervised fine-tuning
+- Model optimization and inference acceleration
 
 ## Open Source
 
 - [**a-share-chokepoint-skill**](https://github.com/aprilvkuo/a-share-chokepoint-skill) — A Chinese-first A-share financial research skill using Chokepoint Theory
 - [**claude-project-memory**](https://github.com/aprilvkuo/claude-project-memory) — Durable project memory workflows for long-running AI-assisted development
 
-## Earlier Work
+## Patents & Education
 
-My public repositories also trace an earlier path through NLP and machine learning, including a [PyTorch-style neural network implementation in NumPy](https://github.com/aprilvkuo/BP-Neural-Network) and [Chinese text classification](https://github.com/aprilvkuo/Text_classification).
+- Five invention patents from my work at Baidu: three as first inventor and two as co-inventor
+- B.S. and M.S. in Computer Science, Harbin Institute of Technology
 
 ## Connect
 
