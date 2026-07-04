@@ -1,6 +1,6 @@
 # Hi, I'm Eric 👋
 
-### Edge AI & Agent Systems Tech Lead
+### Senior AI Engineer | Edge AI & Agent Systems
 
 I build AI systems that work under real product constraints — limited compute, low latency, privacy requirements, and complex engineering environments.
 
@@ -41,5 +41,3 @@ My public repositories also trace an earlier path through NLP and machine learni
 
 - Email: [aprilvkuo@live.com](mailto:aprilvkuo@live.com)
 - GitHub: [@aprilvkuo](https://github.com/aprilvkuo)
-
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=aprilvkuo&show_icons=true&hide_border=true&theme=transparent)
